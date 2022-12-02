@@ -4,29 +4,67 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "139461f9eca4cba88685bb5edf97df60",
-"index.html": "be931b0e502074f37d1e07b284a6ced8",
-"/": "be931b0e502074f37d1e07b284a6ced8",
-"main.dart.js": "22691beee83cc3e30d272563d8c1fca4",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
+"index.html": "a75aaeed671107eb4ef7f6a6e54fec37",
+"/": "a75aaeed671107eb4ef7f6a6e54fec37",
+"main.dart.js": "9a1193a9f3965eae343367d0a49d03cd",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "61bdc4b2ea83c626695d14f8de516ad4",
-"assets/AssetManifest.json": "c128e2682705a8a9a3564dadad5acc31",
-"assets/NOTICES": "a4ba2c522851547a829a1109e8c4c18e",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/AssetManifest.json": "d2661f8356394c2973ac8f0353cbf4cf",
+"assets/NOTICES": "b5913deca711a2aa51cc82b2d14cabe2",
+"assets/FontManifest.json": "95c9a2ae6d6247615a22ddb99dd4374b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/shaders/ink_sparkle.frag": "b399c1ccc6112b4b1f7b83fddcfa1483",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/assets/images/cow-head.png": "6a0d5ee9f189b2a41586691e6afde511",
 "assets/assets/images/ibana-logo.png": "b05e23e002f954092ae9cdca8e7de408",
-"assets/assets/images/wallpaper-2.png": "fb58d3cc2cc0bbaec0fd382e7670594d",
+"assets/assets/images/wallpaper-2.png": "7c6eb4bb006f9c4d2bef096fa3e8e0ce",
+"assets/assets/images/loading_shape.gif": "014a6f641fba936c8c528cc69ed0e56f",
 "assets/assets/images/wallpaper-1.png": "92bcd5ccc8c01433416fba7f61b9d306",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/icons/breakeven-icon.png": "badd3eff27e0f2ed4b2c12045024176a",
+"assets/assets/icons/cost-icon.png": "1eaddc74fcf7719fef874cd7d92684de",
+"assets/assets/icons/orders-icon.png": "2ec003a226030b58302ab5fe82d6e2d5",
+"assets/assets/icons/sales-icon.png": "94e313cb55f5f10d14149a04855af982",
+"assets/assets/fonts/Poppins-ExtraLight.ttf": "6f8391bbdaeaa540388796c858dfd8ca",
+"assets/assets/fonts/Poppins-ThinItalic.ttf": "01555d25092b213d2ea3a982123722c9",
+"assets/assets/fonts/squad-blackitalic.otf": "6323e66817db6b8021139c95016ac469",
+"assets/assets/fonts/Poppins-ExtraLightItalic.ttf": "a9bed017984a258097841902b696a7a6",
+"assets/assets/fonts/Poppins-BoldItalic.ttf": "19406f767addf00d2ea82cdc9ab104ce",
+"assets/assets/fonts/Poppins-Light.ttf": "fcc40ae9a542d001971e53eaed948410",
+"assets/assets/fonts/squad-light.otf": "7223662ebdd8aa6de7f6c931362ab229",
+"assets/assets/fonts/squad-heavyitalic.otf": "d2200060c825291d8cdf78ab2dc19ede",
+"assets/assets/fonts/squad-lightitalic.otf": "d7932af9f45f6c3e0144742bf4bb7f02",
+"assets/assets/fonts/squad-thin.otf": "a90917d17d5b3ce875bc4b9939a5d44b",
+"assets/assets/fonts/squad-semibolditalic.otf": "18db5a5f7ac569314a21e4e0a33aa857",
+"assets/assets/fonts/squad-heavy.otf": "a4690ea9ecc78a3a23d694fa0bfb4afb",
+"assets/assets/fonts/Poppins-SemiBoldItalic.ttf": "9841f3d906521f7479a5ba70612aa8c8",
+"assets/assets/fonts/squad-bold.otf": "08d57c536237cb3426eb88dcfeaa929d",
+"assets/assets/fonts/Poppins-ExtraBoldItalic.ttf": "8afe4dc13b83b66fec0ea671419954cc",
+"assets/assets/fonts/squad-regular.otf": "46e8bcf05d76c71978e13799e1dbf527",
+"assets/assets/fonts/squad-semibold.otf": "c5283907052c0c3c667b3ae97937626d",
+"assets/assets/fonts/Poppins-ExtraBold.ttf": "d45bdbc2d4a98c1ecb17821a1dbbd3a4",
+"assets/assets/fonts/Poppins-BlackItalic.ttf": "e9c5c588e39d0765d30bcd6594734102",
+"assets/assets/fonts/squad-regularitalic.otf": "356ea1a9b0f1278c14e800574a8e853f",
+"assets/assets/fonts/squad-extralightitalic.otf": "698cb3aa2c6ef6353be99f8f2a634f0d",
+"assets/assets/fonts/squad-bolditalic.otf": "9e31df106bc0aa8862730edd0110bd9e",
+"assets/assets/fonts/squad-thinitalic.otf": "5d776ba95653ec72869e7be12e8cddf1",
+"assets/assets/fonts/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
+"assets/assets/fonts/squad-extralight.otf": "6d74d51c1c5257b5b74ad995a641aeb2",
+"assets/assets/fonts/Poppins-LightItalic.ttf": "0613c488cf7911af70db821bdd05dfc4",
+"assets/assets/fonts/squad-black.otf": "ea989b6d6539ee675b5427940ef07b24",
+"assets/assets/fonts/Poppins-Bold.ttf": "08c20a487911694291bd8c5de41315ad",
+"assets/assets/fonts/squad-extrabolditalic.otf": "f9598a73e7bd430e0520b91b81d3f8be",
+"assets/assets/fonts/Poppins-Black.ttf": "14d00dab1f6802e787183ecab5cce85e",
+"assets/assets/fonts/Poppins-Thin.ttf": "9ec263601ee3fcd71763941207c9ad0d",
+"assets/assets/fonts/Poppins-SemiBold.ttf": "6f1520d107205975713ba09df778f93f",
+"assets/assets/fonts/squad-extrabold.otf": "fe6ef11a2648364b4ae48a920f424e31",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -34,7 +72,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -133,9 +170,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
